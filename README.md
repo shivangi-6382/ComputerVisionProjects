@@ -32,10 +32,16 @@ This repository contains multiple real-time **Computer Vision projects** built u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cv-projects.git
+   git clone https://github.com/shivangi-6382/ComputerVisionProjects.git
    cd cv-projects
 2. **Install the dependencies**
    ```bash
    pip install -r requirements.txt
     ```
 3. **Run any project**
+   ```bash
+   python *project_name.py
+   ```
+## License
+This project is licensed under the MIT License
+
