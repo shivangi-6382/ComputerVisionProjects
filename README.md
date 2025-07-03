@@ -1,4 +1,4 @@
-# 🧠 Computer Vision Projects using OpenCV & MediaPipe
+# Computer Vision Projects using OpenCV & MediaPipe
 
 This repository contains multiple real-time **Computer Vision projects** built using **OpenCV**, **MediaPipe**, and **NumPy**. All projects are implemented in Python and run with a standard webcam input.
 
